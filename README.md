@@ -146,6 +146,8 @@ wget https://raw.githubusercontent.com/Zlkcyber/zkapp/main/zkappWorkerClient.ts
 ```
 cd
 cd zkapp/ui/styles
+rm global.css
+
 ```
 ```
 wget https://raw.githubusercontent.com/Zlkcyber/zkapp/main/globals.css
