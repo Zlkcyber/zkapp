@@ -38,7 +38,7 @@ ufw enable
 ## 2. Instal Node Js 16 & NPM & Git (Jika sudah bisa skip)
 
 ```
-sudo apt update && sudo apt upgrade -u
+sudo apt update && sudo apt upgrade -y
 ```
 ```
 sudo apt install git
