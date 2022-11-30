@@ -98,13 +98,18 @@ cd zkapp
 git remote add origin <your-repo-url>
 ```
 ```
+git branch -M main
 git push -u origin main
 ```
 
-`<Your-Repo-Url>` = Kirim link repository kalian
+`<Your-Repo-Url>` = Kirim link repository kalian yg tadi di buat
 
-contoh
->  git remote add origin https://github.com/Zlkcyber/zkapp
+Wajib tambah `.git` di akhir contoh 
+
+```
+git remote add origin https://github.com/Zlkcyber/zkapp.git
+```
+Tinggal ganti `Zlkcyber` jadi `Username` GitHub kalian
 
 Masukan username github kalian dan setelah itu masukan token github kalian, cara mengambilnya follow step below :
 
