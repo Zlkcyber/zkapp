@@ -145,13 +145,14 @@ wget https://raw.githubusercontent.com/Zlkcyber/zkapp/main/zkappWorkerClient.ts
 ```
 
 ## 8 . Download Css 
-
+Masuk ke folder 
 ```
 cd
 cd zkapp/ui/styles
 rm global.css
 
 ```
+Download `global.css` 
 ```
 wget https://raw.githubusercontent.com/Zlkcyber/zkapp/main/globals.css
 ```
